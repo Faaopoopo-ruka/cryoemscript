@@ -1,0 +1,1958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5816f3f-3d2a-4b34-ae39-57d417c01ca9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProjects$baiduyuyin.coverage" NAME="baiduyuyin Coverage Results" MODIFIED="1571840160285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/生信" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$generator.coverage" NAME="generator Coverage Results" MODIFIED="1544672611894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$generetor.coverage" NAME="generetor升级版 Coverage Results" MODIFIED="1544680172728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$dictory.coverage" NAME="dictory Coverage Results" MODIFIED="1543233198633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$translate.coverage" NAME="translate Coverage Results" MODIFIED="1545379818095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/生信" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$timedatetime.coverage" NAME="内置模块详解之time与datetime模块 Coverage Results" MODIFIED="1546507049624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$string2.coverage" NAME="string2 Coverage Results" MODIFIED="1545554246303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$666.coverage" NAME="666 Coverage Results" MODIFIED="1546582531132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$_.coverage" NAME="继承-学校 Coverage Results" MODIFIED="1546604472391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3434.coverage" NAME="3434 Coverage Results" MODIFIED="1543381184987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$1.coverage" NAME="1 Coverage Results" MODIFIED="1544582192409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/生信" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$4.coverage" NAME="4 Coverage Results" MODIFIED="1544603242627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/生信" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$2.coverage" NAME="2 Coverage Results" MODIFIED="1544952957007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$random.coverage" NAME="random模块 Coverage Results" MODIFIED="1545199999664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$zhengzeheader.coverage" NAME="zhengzeheader Coverage Results" MODIFIED="1576073097256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/网络爬虫" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$json.coverage" NAME="json文件的试用 Coverage Results" MODIFIED="1545282462314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gne.coverage" NAME="gne爬取今日头条 Coverage Results" MODIFIED="1578297791348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/生信" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$os.coverage" NAME="os模块 Coverage Results" MODIFIED="1545361366298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$shelve.coverage" NAME="shelve模块 Coverage Results" MODIFIED="1545292518207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$while_cycle_promotion.coverage" NAME="while cycle promotion Coverage Results" MODIFIED="1542330440832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$sys.coverage" NAME="sys Coverage Results" MODIFIED="1543723984952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$try.coverage" NAME="try Coverage Results" MODIFIED="1541584908245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1575700546778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$json2.coverage" NAME="json序列化2 Coverage Results" MODIFIED="1544856605858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$jueceshu.coverage" NAME="jueceshu Coverage Results" MODIFIED="1569559197325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/深度学习" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$.coverage" NAME="微博爬虫处理 Coverage Results" MODIFIED="1578280234985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫重新来过" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$12.coverage" NAME="12 Coverage Results" MODIFIED="1542759323534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$report.coverage" NAME="report Coverage Results" MODIFIED="1569572732268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/深度学习" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$for_cycle.coverage" NAME="for cycle Coverage Results" MODIFIED="1541397278728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$atm__1_.coverage" NAME="atm (1) Coverage Results" MODIFIED="1545200034435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day4/Atm/bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$PDB.coverage" NAME="PDB文件提取氨基酸序列 Coverage Results" MODIFIED="1545478960363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/生信" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$chuli.coverage" NAME="chuli Coverage Results" MODIFIED="1570284492231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/深度学习" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$1zzb_30nm.coverage" NAME="1zzb_30nm Coverage Results" MODIFIED="1545310658006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/朱老师" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$wenku.coverage" NAME="wenku Coverage Results" MODIFIED="1571836576581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/网络爬虫" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3.coverage" NAME="文件读写3改 Coverage Results" MODIFIED="1545397889995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$shopping__trolley.coverage" NAME="shopping  trolley Coverage Results" MODIFIED="1545361570129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$6.coverage" NAME="6 Coverage Results" MODIFIED="1545615037507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/生信" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$123.coverage" NAME="123 Coverage Results" MODIFIED="1545142388156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1546925081727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5-atm/atm/core" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$python.coverage" NAME="python爬虫图片 Coverage Results" MODIFIED="1572021906642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/网络爬虫" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$motherfucker.coverage" NAME="motherfucker Coverage Results" MODIFIED="1543748984498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$JS.coverage" NAME="执行JS文件 Coverage Results" MODIFIED="1572179692589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫重新来过" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$return.coverage" NAME="函数return值测试实验 Coverage Results" MODIFIED="1544590941544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_matplotlib.coverage" NAME="test_matplotlib Coverage Results" MODIFIED="1546607300778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$hashlib.coverage" NAME="hashlib模块 Coverage Results" MODIFIED="1545379027559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$auth.coverage" NAME="auth Coverage Results" MODIFIED="1545193176174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5-atm/atm/core" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$all_asym_30nm.coverage" NAME="all_asym_30nm Coverage Results" MODIFIED="1545310583086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/朱老师" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$DAY5.coverage" NAME="为了DAY5的模块导入做测试 Coverage Results" MODIFIED="1545048062481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$zipfile.coverage" NAME="zipfile压缩和解压 Coverage Results" MODIFIED="1545220351771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$configparser.coverage" NAME="configparser读 Coverage Results" MODIFIED="1545360791304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fuction.coverage" NAME="fuction Coverage Results" MODIFIED="1545118757632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day3" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$atm.coverage" NAME="atm Coverage Results" MODIFIED="1545281620187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5-atm/atm/bin" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$gradient_fix.coverage" NAME="gradient fix Coverage Results" MODIFIED="1574699163434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/生信" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$shutil.coverage" NAME="shutil模块 Coverage Results" MODIFIED="1545219305997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ragax.coverage" NAME="ragax Coverage Results" MODIFIED="1545481178089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Json___pickle_.coverage" NAME="Json &amp; pickle 数据序列化 Coverage Results" MODIFIED="1545547371116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day4" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$xml.coverage" NAME="xml创建 Coverage Results" MODIFIED="1545357718821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day5" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$cs_play.coverage" NAME="cs play Coverage Results" MODIFIED="1546505421523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/day6" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$MRNA.coverage" NAME="MRNA Coverage Results" MODIFIED="1544596696342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习用的/生信" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1391870967">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="118" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="8" />
+          <entry key="project.open.time.12" value="6" />
+          <entry key="project.open.time.13" value="9" />
+          <entry key="project.open.time.14" value="11" />
+          <entry key="project.open.time.15" value="6" />
+          <entry key="project.open.time.1563" value="1" />
+          <entry key="project.open.time.16" value="11" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.5" value="15" />
+          <entry key="project.open.time.6" value="25" />
+          <entry key="project.open.time.7" value="14" />
+          <entry key="project.open.time.8" value="7" />
+          <entry key="project.open.time.9" value="7" />
+          <entry key="project.opened" value="153" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1017" value="2" />
+          <entry key="MENT" value="3" />
+          <entry key="ad" value="5" />
+          <entry key="asc" value="1" />
+          <entry key="bak" value="1" />
+          <entry key="csv" value="10" />
+          <entry key="cvs" value="2" />
+          <entry key="cv计算图片相关系数" value="4" />
+          <entry key="dat" value="2" />
+          <entry key="dir" value="3" />
+          <entry key="dot" value="1" />
+          <entry key="durant" value="2" />
+          <entry key="ent" value="2" />
+          <entry key="function" value="1" />
+          <entry key="h" value="1" />
+          <entry key="html" value="12" />
+          <entry key="ico" value="3" />
+          <entry key="iml" value="1" />
+          <entry key="ini" value="3" />
+          <entry key="ipynb" value="13" />
+          <entry key="jijifujiji" value="3" />
+          <entry key="jpg" value="30" />
+          <entry key="js" value="2" />
+          <entry key="json" value="10" />
+          <entry key="length" value="1" />
+          <entry key="linux" value="4" />
+          <entry key="linux1" value="3" />
+          <entry key="log" value="1" />
+          <entry key="mabi" value="7" />
+          <entry key="name" value="1" />
+          <entry key="out_file" value="1" />
+          <entry key="paper_of_English" value="1" />
+          <entry key="pkl" value="3" />
+          <entry key="png" value="26" />
+          <entry key="py" value="884" />
+          <entry key="pyi" value="2" />
+          <entry key="rawtlt" value="1" />
+          <entry key="rizhi" value="5" />
+          <entry key="test" value="1" />
+          <entry key="tlt" value="7" />
+          <entry key="tsv" value="2" />
+          <entry key="txt" value="37" />
+          <entry key="xml" value="2" />
+          <entry key="嵌套列表组合" value="2" />
+          <entry key="本节笔记" value="4" />
+          <entry key="笔记" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="10" />
+          <entry key="DTD" value="2" />
+          <entry key="HTML" value="12" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="IPNB" value="13" />
+          <entry key="Image" value="59" />
+          <entry key="Ini" value="3" />
+          <entry key="JSON" value="8" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PLAIN_TEXT" value="109" />
+          <entry key="Python" value="889" />
+          <entry key="PythonStub" value="2" />
+          <entry key="TSV" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="1" value="1" />
+          <entry key="123" value="24" />
+          <entry key="MENT" value="43" />
+          <entry key="Python Console" value="1" />
+          <entry key="ad" value="46" />
+          <entry key="atm" value="15" />
+          <entry key="cv计算图片相关系数" value="18" />
+          <entry key="dummy" value="76" />
+          <entry key="gne爬取今日头条" value="6" />
+          <entry key="html" value="3" />
+          <entry key="interaction" value="52" />
+          <entry key="js" value="25" />
+          <entry key="json" value="41" />
+          <entry key="length" value="49" />
+          <entry key="mabi" value="8" />
+          <entry key="name" value="4" />
+          <entry key="py" value="29414" />
+          <entry key="python模拟发邮件" value="155" />
+          <entry key="ragax" value="7" />
+          <entry key="test" value="8" />
+          <entry key="tlt" value="236" />
+          <entry key="tsv" value="6" />
+          <entry key="txt" value="270" />
+          <entry key="xml" value="15" />
+          <entry key="全局代理" value="1" />
+          <entry key="提取关键词英语" value="1" />
+          <entry key="笔记" value="443" />
+          <entry key="论文写作" value="5" />
+          <entry key="读取图片信息" value="15" />
+          <entry key="这个花爱心的程序" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="JSON" value="41" />
+          <entry key="JavaScript" value="25" />
+          <entry key="PLAIN_TEXT" value="1181" />
+          <entry key="Python" value="29748" />
+          <entry key="XML" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PycharmProjects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学习用的/day3/文件读写2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/cryo.tlt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/cygwin/home/ALEX PHYLIPS/tlt/tomo5.tlt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="800">
+              <caret line="4" column="7" selection-start-line="4" selection-end-line="4" selection-end-column="7" />
+              <caret column="7" selection-end-column="7" />
+              <caret line="1" column="7" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+              <caret line="2" column="7" selection-start-line="2" selection-end-line="2" selection-end-column="7" />
+              <caret line="3" column="7" selection-start-line="3" selection-end-line="3" selection-end-column="7" />
+              <caret line="5" column="7" selection-start-line="5" selection-end-line="5" selection-end-column="7" />
+              <caret line="6" column="7" selection-start-line="6" selection-end-line="6" selection-end-column="7" />
+              <caret line="7" column="7" selection-start-line="7" selection-end-line="7" selection-end-column="7" />
+              <caret line="8" column="7" selection-start-line="8" selection-end-line="8" selection-end-column="7" />
+              <caret line="9" column="7" selection-start-line="9" selection-end-line="9" selection-end-column="7" />
+              <caret line="10" column="7" selection-start-line="10" selection-end-line="10" selection-end-column="7" />
+              <caret line="11" column="7" selection-start-line="11" selection-end-line="11" selection-end-column="7" />
+              <caret line="12" column="7" selection-start-line="12" selection-end-line="12" selection-end-column="7" />
+              <caret line="13" column="7" selection-start-line="13" selection-end-line="13" selection-end-column="7" />
+              <caret line="14" column="7" selection-start-line="14" selection-end-line="14" selection-end-column="7" />
+              <caret line="15" column="7" selection-start-line="15" selection-end-line="15" selection-end-column="7" />
+              <caret line="16" column="7" selection-start-line="16" selection-end-line="16" selection-end-column="7" />
+              <caret line="17" column="7" selection-start-line="17" selection-end-line="17" selection-end-column="7" />
+              <caret line="18" column="7" selection-start-line="18" selection-end-line="18" selection-end-column="7" />
+              <caret line="19" column="7" selection-start-line="19" selection-end-line="19" selection-end-column="7" />
+              <caret line="20" column="7" selection-start-line="20" selection-end-line="20" selection-end-column="7" />
+              <caret line="21" column="7" selection-start-line="21" selection-end-line="21" selection-end-column="7" />
+              <caret line="22" column="7" selection-start-line="22" selection-end-line="22" selection-end-column="7" />
+              <caret line="23" column="7" selection-start-line="23" selection-end-line="23" selection-end-column="7" />
+              <caret line="24" column="7" selection-start-line="24" selection-end-line="24" selection-end-column="7" />
+              <caret line="25" column="7" selection-start-line="25" selection-end-line="25" selection-end-column="7" />
+              <caret line="26" column="7" selection-start-line="26" selection-end-line="26" selection-end-column="7" />
+              <caret line="27" column="7" selection-start-line="27" selection-end-line="27" selection-end-column="7" />
+              <caret line="28" column="7" selection-start-line="28" selection-end-line="28" selection-end-column="7" />
+              <caret line="29" column="7" selection-start-line="29" selection-end-line="29" selection-end-column="7" />
+              <caret line="30" column="7" selection-start-line="30" selection-end-line="30" selection-end-column="7" />
+              <caret line="31" column="7" selection-start-line="31" selection-end-line="31" selection-end-column="7" />
+              <caret line="32" column="7" selection-start-line="32" selection-end-line="32" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/cygwin/home/ALEX PHYLIPS/tlt/tomo4.tlt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="800">
+              <caret column="7" selection-end-column="7" />
+              <caret line="1" column="7" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+              <caret line="2" column="7" selection-start-line="2" selection-end-line="2" selection-end-column="7" />
+              <caret line="3" column="7" selection-start-line="3" selection-end-line="3" selection-end-column="7" />
+              <caret line="4" column="7" selection-start-line="4" selection-end-line="4" selection-end-column="7" />
+              <caret line="5" column="7" selection-start-line="5" selection-end-line="5" selection-end-column="7" />
+              <caret line="6" column="7" selection-start-line="6" selection-end-line="6" selection-end-column="7" />
+              <caret line="7" column="7" selection-start-line="7" selection-end-line="7" selection-end-column="7" />
+              <caret line="8" column="7" selection-start-line="8" selection-end-line="8" selection-end-column="7" />
+              <caret line="9" column="7" selection-start-line="9" selection-end-line="9" selection-end-column="7" />
+              <caret line="10" column="7" selection-start-line="10" selection-end-line="10" selection-end-column="7" />
+              <caret line="11" column="7" selection-start-line="11" selection-end-line="11" selection-end-column="7" />
+              <caret line="12" column="7" selection-start-line="12" selection-end-line="12" selection-end-column="7" />
+              <caret line="13" column="7" selection-start-line="13" selection-end-line="13" selection-end-column="7" />
+              <caret line="14" column="7" selection-start-line="14" selection-end-line="14" selection-end-column="7" />
+              <caret line="15" column="7" selection-start-line="15" selection-end-line="15" selection-end-column="7" />
+              <caret line="16" column="7" selection-start-line="16" selection-end-line="16" selection-end-column="7" />
+              <caret line="17" column="7" selection-start-line="17" selection-end-line="17" selection-end-column="7" />
+              <caret line="18" column="7" selection-start-line="18" selection-end-line="18" selection-end-column="7" />
+              <caret line="19" column="7" selection-start-line="19" selection-end-line="19" selection-end-column="7" />
+              <caret line="20" column="7" selection-start-line="20" selection-end-line="20" selection-end-column="7" />
+              <caret line="21" column="7" selection-start-line="21" selection-end-line="21" selection-end-column="7" />
+              <caret line="22" column="7" selection-start-line="22" selection-end-line="22" selection-end-column="7" />
+              <caret line="23" column="7" selection-start-line="23" selection-end-line="23" selection-end-column="7" />
+              <caret line="24" column="7" selection-start-line="24" selection-end-line="24" selection-end-column="7" />
+              <caret line="25" column="7" selection-start-line="25" selection-end-line="25" selection-end-column="7" />
+              <caret line="26" column="7" selection-start-line="26" selection-end-line="26" selection-end-column="7" />
+              <caret line="27" column="7" selection-start-line="27" selection-end-line="27" selection-end-column="7" />
+              <caret line="28" column="7" selection-start-line="28" selection-end-line="28" selection-end-column="7" />
+              <caret line="29" column="7" selection-start-line="29" selection-end-line="29" selection-end-column="7" />
+              <caret line="30" column="7" selection-start-line="30" selection-end-line="30" selection-end-column="7" />
+              <caret line="31" column="7" selection-start-line="31" selection-end-line="31" selection-end-column="7" />
+              <caret line="32" column="7" selection-start-line="32" selection-end-line="32" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/kk.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="800">
+              <caret column="7" selection-end-column="7" />
+              <caret line="1" column="7" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+              <caret line="2" column="7" selection-start-line="2" selection-end-line="2" selection-end-column="7" />
+              <caret line="3" column="7" selection-start-line="3" selection-end-line="3" selection-end-column="7" />
+              <caret line="4" column="7" selection-start-line="4" selection-end-line="4" selection-end-column="7" />
+              <caret line="5" column="7" selection-start-line="5" selection-end-line="5" selection-end-column="7" />
+              <caret line="6" column="7" selection-start-line="6" selection-end-line="6" selection-end-column="7" />
+              <caret line="7" column="7" selection-start-line="7" selection-end-line="7" selection-end-column="7" />
+              <caret line="8" column="7" selection-start-line="8" selection-end-line="8" selection-end-column="7" />
+              <caret line="9" column="7" selection-start-line="9" selection-end-line="9" selection-end-column="7" />
+              <caret line="10" column="7" selection-start-line="10" selection-end-line="10" selection-end-column="7" />
+              <caret line="11" column="7" selection-start-line="11" selection-end-line="11" selection-end-column="7" />
+              <caret line="12" column="7" selection-start-line="12" selection-end-line="12" selection-end-column="7" />
+              <caret line="13" column="7" selection-start-line="13" selection-end-line="13" selection-end-column="7" />
+              <caret line="14" column="7" selection-start-line="14" selection-end-line="14" selection-end-column="7" />
+              <caret line="15" column="7" selection-start-line="15" selection-end-line="15" selection-end-column="7" />
+              <caret line="16" column="7" selection-start-line="16" selection-end-line="16" selection-end-column="7" />
+              <caret line="17" column="7" selection-start-line="17" selection-end-line="17" selection-end-column="7" />
+              <caret line="18" column="7" selection-start-line="18" selection-end-line="18" selection-end-column="7" />
+              <caret line="19" column="7" selection-start-line="19" selection-end-line="19" selection-end-column="7" />
+              <caret line="20" column="7" selection-start-line="20" selection-end-line="20" selection-end-column="7" />
+              <caret line="21" column="7" selection-start-line="21" selection-end-line="21" selection-end-column="7" />
+              <caret line="22" column="7" selection-start-line="22" selection-end-line="22" selection-end-column="7" />
+              <caret line="23" column="7" selection-start-line="23" selection-end-line="23" selection-end-column="7" />
+              <caret line="24" column="7" selection-start-line="24" selection-end-line="24" selection-end-column="7" />
+              <caret line="25" column="7" selection-start-line="25" selection-end-line="25" selection-end-column="7" />
+              <caret line="26" column="7" selection-start-line="26" selection-end-line="26" selection-end-column="7" />
+              <caret line="27" column="7" selection-start-line="27" selection-end-line="27" selection-end-column="7" />
+              <caret line="28" column="7" selection-start-line="28" selection-end-line="28" selection-end-column="7" />
+              <caret line="29" column="7" selection-start-line="29" selection-end-line="29" selection-end-column="7" />
+              <caret line="30" column="7" selection-start-line="30" selection-end-line="30" selection-end-column="7" />
+              <caret line="31" column="7" selection-start-line="31" selection-end-line="31" selection-end-column="7" />
+              <caret line="32" column="7" selection-start-line="32" selection-end-line="32" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫重新来过/爬取知乎内容.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+              <folding>
+                <element signature="e#19#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学习用的/day3/文件读写3改.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" selection-start-line="8" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学习用的/day5/ragax.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学习用的/day2/购物车.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学习用的/day2/shopping  trolley.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name</find>
+      <find>chr</find>
+      <find>roc</find>
+      <find>Preci</find>
+      <find>Prec</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/学习用的/day2/test.py" />
+        <option value="$PROJECT_DIR$/学习用的/图像处理/读取图片信息.py" />
+        <option value="$PROJECT_DIR$/学习用的/图像处理/python将图片分割成九张.py" />
+        <option value="$PROJECT_DIR$/学习用的/网络爬虫/click.py" />
+        <option value="$PROJECT_DIR$/学习用的/python小程序/京东自动签到.py" />
+        <option value="$PROJECT_DIR$/学习用的/python小程序/python点击获取坐标.py" />
+        <option value="$PROJECT_DIR$/学习用的/图像处理/抠图1.py" />
+        <option value="$PROJECT_DIR$/学习用的/图像处理/抠图2.py" />
+        <option value="$PROJECT_DIR$/学习用的/GPU加速/给小猫做折线图.py" />
+        <option value="$PROJECT_DIR$/学习用的/GPU加速/22.txt" />
+        <option value="$PROJECT_DIR$/学习用的/图像处理/renlianshibie.py" />
+        <option value="$PROJECT_DIR$/学习用的/图像处理/旋转图片.py" />
+        <option value="$PROJECT_DIR$/学习用的/图像处理/face_detect.py" />
+        <option value="$PROJECT_DIR$/爬虫重新来过/123.txt" />
+        <option value="$PROJECT_DIR$/爬虫重新来过/微博爬虫处理.py" />
+        <option value="$PROJECT_DIR$/爬虫重新来过/表单.py" />
+        <option value="$PROJECT_DIR$/学习用的/生信/python模拟发邮件2.py" />
+        <option value="$PROJECT_DIR$/学习用的/深度学习/pdftxt.py" />
+        <option value="$PROJECT_DIR$/学习用的/深度学习/太极.py" />
+        <option value="$PROJECT_DIR$/学习用的/taijibagua/1.pyi" />
+        <option value="$PROJECT_DIR$/学习用的/taijibagua/2.py" />
+        <option value="$PROJECT_DIR$/学习用的/12306/12306抢票.py" />
+        <option value="$PROJECT_DIR$/学习用的/庆余年-CODE/weibo_comment.py" />
+        <option value="$PROJECT_DIR$/学习用的/庆余年-CODE/extract.py" />
+        <option value="$PROJECT_DIR$/学习用的/图像处理/阈值化图片.py" />
+        <option value="$PROJECT_DIR$/爬虫重新来过/request代理.py" />
+        <option value="$PROJECT_DIR$/学习用的/网络爬虫/zhengzeheader.py" />
+        <option value="$PROJECT_DIR$/爬虫重新来过/request小技巧.py" />
+        <option value="$PROJECT_DIR$/学习用的/生信/gne爬取今日头条.py" />
+        <option value="$PROJECT_DIR$/学习用的/图像处理/skleran归一化示例.py" />
+        <option value="$PROJECT_DIR$/学习用的/深度学习/PCAnalysisi.py" />
+        <option value="$PROJECT_DIR$/学习用的/day11/direct_customer.py" />
+        <option value="$PROJECT_DIR$/学习用的/图像处理/2.txt" />
+        <option value="$PROJECT_DIR$/学习用的/图像处理/云图.py" />
+        <option value="$PROJECT_DIR$/学习用的/day5/os模块.py" />
+        <option value="$PROJECT_DIR$/学习用的/python学生信/paper_of_English" />
+        <option value="$PROJECT_DIR$/学习用的/python学生信/动词+名词.py" />
+        <option value="$PROJECT_DIR$/学习用的/深度学习/jueceshu.py" />
+        <option value="$PROJECT_DIR$/学习用的/深度学习/npuse.py" />
+        <option value="$PROJECT_DIR$/学习用的/day8/笔记" />
+        <option value="$PROJECT_DIR$/学习用的/深度学习/linermethod.py" />
+        <option value="$PROJECT_DIR$/学习用的/生信/222.txt" />
+        <option value="$PROJECT_DIR$/学习用的/生信/TLT.py" />
+        <option value="$USER_HOME$/Desktop/new.tlt" />
+        <option value="$PROJECT_DIR$/爬虫重新来过/爬取知乎内容.py" />
+        <option value="$PROJECT_DIR$/学习用的/python小程序/模拟鼠标点击.py" />
+        <option value="$USER_HOME$/Desktop/classassign.py" />
+        <option value="$USER_HOME$/Desktop/生图处理/tomogram1.tlt" />
+        <option value="$PROJECT_DIR$/爬虫重新来过/sheet.py" />
+        <option value="$PROJECT_DIR$/学习用的/day1/while循环.py" />
+        <option value="$USER_HOME$/Desktop/cryo.tlt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="405" />
+    <option name="width" value="1845" />
+    <option name="height" value="1105" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers Scope="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="untitled2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="不如吃茶去" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="day1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="day2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="day3" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="day4" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="day5" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="day5-atm" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="day6" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="day7" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="day8" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="venv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="图像处理" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="学习用的" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="生信" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习用的" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习用的" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习用的" type="462c0819:PsiDirectoryNode" />
+              <item name="day2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习用的" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习用的" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习用的" type="462c0819:PsiDirectoryNode" />
+              <item name="day5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习用的" type="462c0819:PsiDirectoryNode" />
+              <item name="day8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习用的" type="462c0819:PsiDirectoryNode" />
+              <item name="python小程序" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习用的" type="462c0819:PsiDirectoryNode" />
+              <item name="图像处理" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习用的" type="462c0819:PsiDirectoryNode" />
+              <item name="深度学习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习用的" type="462c0819:PsiDirectoryNode" />
+              <item name="生信" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫重新来过" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ALEX PHYLIPS\PycharmProjects\学习用的\深度学习" />
+      <recent name="C:\Users\ALEX PHYLIPS\PycharmProjects\学习用的\庆余年-CODE" />
+      <recent name="C:\Users\ALEX PHYLIPS\PycharmProjects\学习用的" />
+      <recent name="C:\Users\ALEX PHYLIPS\PycharmProjects\学习用的\图像处理" />
+      <recent name="C:\Users\ALEX PHYLIPS\PycharmProjects\学习用的\GPU加速" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.while循环">
+    <configuration name="论文写作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/生信" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/生信/论文写作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文件读写3改" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day3/文件读写3改.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TLT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/生信" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/生信/TLT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="热点图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/生信" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/生信/热点图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="云图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/图像处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/图像处理/云图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文件读写" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day3/文件读写.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文件的修改" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day3/文件的修改.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="旋转图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/图像处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/图像处理/旋转图片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="论文写作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/生信" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/生信/论文写作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进度条" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day3/进度条.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文件的修改" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day3/文件的修改.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="阈值化图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/图像处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/图像处理/阈值化图片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="进度条" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day3/进度条.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="集合" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day3/集合.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="类方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day7/类方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文件读写" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day3/文件读写.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="表单" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫重新来过" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫重新来过/表单.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="静态方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day7/静态方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="函数与函数式编程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day3/函数与函数式编程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="模拟鼠标点击" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/python小程序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/python小程序/模拟鼠标点击.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="表单" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫重新来过" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫重新来过/表单.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文件读写" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day3/文件读写.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="打开网页" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/生信" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/生信/打开网页.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文件的修改" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day3/文件的修改.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="npuse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/深度学习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/深度学习/npuse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="while循环" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习用的/day1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习用的/day1/while循环.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.npuse" />
+      <item itemvalue="Python.文件读写3改" />
+      <item itemvalue="Python.论文写作" />
+      <item itemvalue="Python.TLT" />
+      <item itemvalue="Python.while循环" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.while循环" />
+        <item itemvalue="Python.TLT" />
+        <item itemvalue="Python.论文写作" />
+        <item itemvalue="Python.文件读写3改" />
+        <item itemvalue="Python.npuse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5816f3f-3d2a-4b34-ae39-57d417c01ca9" name="Default Changelist" comment="" />
+      <created>1541396918190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541396918190</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="-7" width="1475" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" x="620" y="71" width="296" height="682" id="Project" order="0" sideWeight="0.80890054" visible="true" weight="0.24770643" />
+      <window_info id="Structure" order="1" sideWeight="0.19109948" side_tool="true" weight="0.278169" />
+      <window_info id="Favorites" order="2" sideWeight="0.17067833" side_tool="true" weight="0.24329759" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.32991204" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49718308" weight="0.33102494" />
+      <window_info anchor="bottom" x="31" y="481" width="1492" height="225" id="Run" order="3" sideWeight="0.47464788" weight="0.47091413" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49718308" weight="0.5692521" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.44906166" weight="0.32963988" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5020107" side_tool="true" weight="0.41348973" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.44906166" weight="0.32991204" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.5253521" side_tool="true" weight="0.45316803" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.60070425" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" side_tool="true" visible="true" weight="0.29624665" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" x="620" y="71" width="296" height="682" id="Project" order="0" sideWeight="0.80890054" visible="true" weight="0.31241184" />
+      <window_info id="Structure" order="1" sideWeight="0.19109948" side_tool="true" weight="0.278169" />
+      <window_info id="Favorites" order="2" sideWeight="0.17067833" side_tool="true" weight="0.24329759" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.32991204" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49718308" weight="0.33102494" />
+      <window_info anchor="bottom" x="31" y="481" width="1492" height="225" id="Run" order="3" sideWeight="0.47464788" weight="0.47091413" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49718308" weight="0.5692521" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.44906166" weight="0.32963988" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5020107" side_tool="true" weight="0.41348973" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.44906166" weight="0.32991204" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.5253521" side_tool="true" visible="true" weight="0.45316803" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.60070425" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="5" side_tool="true" visible="true" weight="0.29624665" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器详解.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器详解.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/装饰器详解.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/嵌套函数.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/嵌套函数.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/嵌套函数.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/嵌套函数.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/嵌套函数.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/嵌套函数.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/嵌套函数.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/嵌套函数.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/day4/generator.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/生信/6.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/图像处理/高斯低通滤波.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习用的/生信/论文写作.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/学习用的/day2/字典的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/生信/gne爬取今日头条.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/生信/222.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/深度学习/PCAnalysisi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/深度学习/jueceshu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/生信/论文写作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day2/string2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day1/while cycle promotion.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day1/guess.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day2/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day2/sys.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/生信/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/cv计算相关系数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/cv计算图片相关系数">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/form.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/生信/TLT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/new.tlt" />
+    <entry file="file://$USER_HOME$/Desktop/chromatin50_sdp_20120706_12.rawtlt" />
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/face_detect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day3/文件的修改.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day2/元组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫重新来过/豆瓣电影爬取.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day2/列表的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/1.tlt" />
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/9.png" />
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/2Dclassfication.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/110.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/alignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/图像处理/aligned.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/classassign.py" />
+    <entry file="file://$USER_HOME$/Desktop/生图处理/tomogram1.tlt" />
+    <entry file="file://$PROJECT_DIR$/学习用的/python小程序/模拟鼠标点击.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫重新来过/sheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day1/for cycle promotion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day1/if else条件句判断.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day1/interaction.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day1/while循环.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day3/文件读写.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day3/文件读写2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/cygwin/home/ALEX PHYLIPS/tlt/tomo5.tlt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="4" column="7" selection-start-line="4" selection-end-line="4" selection-end-column="7" />
+          <caret column="7" selection-end-column="7" />
+          <caret line="1" column="7" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+          <caret line="2" column="7" selection-start-line="2" selection-end-line="2" selection-end-column="7" />
+          <caret line="3" column="7" selection-start-line="3" selection-end-line="3" selection-end-column="7" />
+          <caret line="5" column="7" selection-start-line="5" selection-end-line="5" selection-end-column="7" />
+          <caret line="6" column="7" selection-start-line="6" selection-end-line="6" selection-end-column="7" />
+          <caret line="7" column="7" selection-start-line="7" selection-end-line="7" selection-end-column="7" />
+          <caret line="8" column="7" selection-start-line="8" selection-end-line="8" selection-end-column="7" />
+          <caret line="9" column="7" selection-start-line="9" selection-end-line="9" selection-end-column="7" />
+          <caret line="10" column="7" selection-start-line="10" selection-end-line="10" selection-end-column="7" />
+          <caret line="11" column="7" selection-start-line="11" selection-end-line="11" selection-end-column="7" />
+          <caret line="12" column="7" selection-start-line="12" selection-end-line="12" selection-end-column="7" />
+          <caret line="13" column="7" selection-start-line="13" selection-end-line="13" selection-end-column="7" />
+          <caret line="14" column="7" selection-start-line="14" selection-end-line="14" selection-end-column="7" />
+          <caret line="15" column="7" selection-start-line="15" selection-end-line="15" selection-end-column="7" />
+          <caret line="16" column="7" selection-start-line="16" selection-end-line="16" selection-end-column="7" />
+          <caret line="17" column="7" selection-start-line="17" selection-end-line="17" selection-end-column="7" />
+          <caret line="18" column="7" selection-start-line="18" selection-end-line="18" selection-end-column="7" />
+          <caret line="19" column="7" selection-start-line="19" selection-end-line="19" selection-end-column="7" />
+          <caret line="20" column="7" selection-start-line="20" selection-end-line="20" selection-end-column="7" />
+          <caret line="21" column="7" selection-start-line="21" selection-end-line="21" selection-end-column="7" />
+          <caret line="22" column="7" selection-start-line="22" selection-end-line="22" selection-end-column="7" />
+          <caret line="23" column="7" selection-start-line="23" selection-end-line="23" selection-end-column="7" />
+          <caret line="24" column="7" selection-start-line="24" selection-end-line="24" selection-end-column="7" />
+          <caret line="25" column="7" selection-start-line="25" selection-end-line="25" selection-end-column="7" />
+          <caret line="26" column="7" selection-start-line="26" selection-end-line="26" selection-end-column="7" />
+          <caret line="27" column="7" selection-start-line="27" selection-end-line="27" selection-end-column="7" />
+          <caret line="28" column="7" selection-start-line="28" selection-end-line="28" selection-end-column="7" />
+          <caret line="29" column="7" selection-start-line="29" selection-end-line="29" selection-end-column="7" />
+          <caret line="30" column="7" selection-start-line="30" selection-end-line="30" selection-end-column="7" />
+          <caret line="31" column="7" selection-start-line="31" selection-end-line="31" selection-end-column="7" />
+          <caret line="32" column="7" selection-start-line="32" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/cygwin/home/ALEX PHYLIPS/tlt/tomo4.tlt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret column="7" selection-end-column="7" />
+          <caret line="1" column="7" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+          <caret line="2" column="7" selection-start-line="2" selection-end-line="2" selection-end-column="7" />
+          <caret line="3" column="7" selection-start-line="3" selection-end-line="3" selection-end-column="7" />
+          <caret line="4" column="7" selection-start-line="4" selection-end-line="4" selection-end-column="7" />
+          <caret line="5" column="7" selection-start-line="5" selection-end-line="5" selection-end-column="7" />
+          <caret line="6" column="7" selection-start-line="6" selection-end-line="6" selection-end-column="7" />
+          <caret line="7" column="7" selection-start-line="7" selection-end-line="7" selection-end-column="7" />
+          <caret line="8" column="7" selection-start-line="8" selection-end-line="8" selection-end-column="7" />
+          <caret line="9" column="7" selection-start-line="9" selection-end-line="9" selection-end-column="7" />
+          <caret line="10" column="7" selection-start-line="10" selection-end-line="10" selection-end-column="7" />
+          <caret line="11" column="7" selection-start-line="11" selection-end-line="11" selection-end-column="7" />
+          <caret line="12" column="7" selection-start-line="12" selection-end-line="12" selection-end-column="7" />
+          <caret line="13" column="7" selection-start-line="13" selection-end-line="13" selection-end-column="7" />
+          <caret line="14" column="7" selection-start-line="14" selection-end-line="14" selection-end-column="7" />
+          <caret line="15" column="7" selection-start-line="15" selection-end-line="15" selection-end-column="7" />
+          <caret line="16" column="7" selection-start-line="16" selection-end-line="16" selection-end-column="7" />
+          <caret line="17" column="7" selection-start-line="17" selection-end-line="17" selection-end-column="7" />
+          <caret line="18" column="7" selection-start-line="18" selection-end-line="18" selection-end-column="7" />
+          <caret line="19" column="7" selection-start-line="19" selection-end-line="19" selection-end-column="7" />
+          <caret line="20" column="7" selection-start-line="20" selection-end-line="20" selection-end-column="7" />
+          <caret line="21" column="7" selection-start-line="21" selection-end-line="21" selection-end-column="7" />
+          <caret line="22" column="7" selection-start-line="22" selection-end-line="22" selection-end-column="7" />
+          <caret line="23" column="7" selection-start-line="23" selection-end-line="23" selection-end-column="7" />
+          <caret line="24" column="7" selection-start-line="24" selection-end-line="24" selection-end-column="7" />
+          <caret line="25" column="7" selection-start-line="25" selection-end-line="25" selection-end-column="7" />
+          <caret line="26" column="7" selection-start-line="26" selection-end-line="26" selection-end-column="7" />
+          <caret line="27" column="7" selection-start-line="27" selection-end-line="27" selection-end-column="7" />
+          <caret line="28" column="7" selection-start-line="28" selection-end-line="28" selection-end-column="7" />
+          <caret line="29" column="7" selection-start-line="29" selection-end-line="29" selection-end-column="7" />
+          <caret line="30" column="7" selection-start-line="30" selection-end-line="30" selection-end-column="7" />
+          <caret line="31" column="7" selection-start-line="31" selection-end-line="31" selection-end-column="7" />
+          <caret line="32" column="7" selection-start-line="32" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/kk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret column="7" selection-end-column="7" />
+          <caret line="1" column="7" selection-start-line="1" selection-end-line="1" selection-end-column="7" />
+          <caret line="2" column="7" selection-start-line="2" selection-end-line="2" selection-end-column="7" />
+          <caret line="3" column="7" selection-start-line="3" selection-end-line="3" selection-end-column="7" />
+          <caret line="4" column="7" selection-start-line="4" selection-end-line="4" selection-end-column="7" />
+          <caret line="5" column="7" selection-start-line="5" selection-end-line="5" selection-end-column="7" />
+          <caret line="6" column="7" selection-start-line="6" selection-end-line="6" selection-end-column="7" />
+          <caret line="7" column="7" selection-start-line="7" selection-end-line="7" selection-end-column="7" />
+          <caret line="8" column="7" selection-start-line="8" selection-end-line="8" selection-end-column="7" />
+          <caret line="9" column="7" selection-start-line="9" selection-end-line="9" selection-end-column="7" />
+          <caret line="10" column="7" selection-start-line="10" selection-end-line="10" selection-end-column="7" />
+          <caret line="11" column="7" selection-start-line="11" selection-end-line="11" selection-end-column="7" />
+          <caret line="12" column="7" selection-start-line="12" selection-end-line="12" selection-end-column="7" />
+          <caret line="13" column="7" selection-start-line="13" selection-end-line="13" selection-end-column="7" />
+          <caret line="14" column="7" selection-start-line="14" selection-end-line="14" selection-end-column="7" />
+          <caret line="15" column="7" selection-start-line="15" selection-end-line="15" selection-end-column="7" />
+          <caret line="16" column="7" selection-start-line="16" selection-end-line="16" selection-end-column="7" />
+          <caret line="17" column="7" selection-start-line="17" selection-end-line="17" selection-end-column="7" />
+          <caret line="18" column="7" selection-start-line="18" selection-end-line="18" selection-end-column="7" />
+          <caret line="19" column="7" selection-start-line="19" selection-end-line="19" selection-end-column="7" />
+          <caret line="20" column="7" selection-start-line="20" selection-end-line="20" selection-end-column="7" />
+          <caret line="21" column="7" selection-start-line="21" selection-end-line="21" selection-end-column="7" />
+          <caret line="22" column="7" selection-start-line="22" selection-end-line="22" selection-end-column="7" />
+          <caret line="23" column="7" selection-start-line="23" selection-end-line="23" selection-end-column="7" />
+          <caret line="24" column="7" selection-start-line="24" selection-end-line="24" selection-end-column="7" />
+          <caret line="25" column="7" selection-start-line="25" selection-end-line="25" selection-end-column="7" />
+          <caret line="26" column="7" selection-start-line="26" selection-end-line="26" selection-end-column="7" />
+          <caret line="27" column="7" selection-start-line="27" selection-end-line="27" selection-end-column="7" />
+          <caret line="28" column="7" selection-start-line="28" selection-end-line="28" selection-end-column="7" />
+          <caret line="29" column="7" selection-start-line="29" selection-end-line="29" selection-end-column="7" />
+          <caret line="30" column="7" selection-start-line="30" selection-end-line="30" selection-end-column="7" />
+          <caret line="31" column="7" selection-start-line="31" selection-end-line="31" selection-end-column="7" />
+          <caret line="32" column="7" selection-start-line="32" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫重新来过/爬取知乎内容.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+          <folding>
+            <element signature="e#19#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day3/文件读写3改.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day5/ragax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day2/购物车.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习用的/day2/shopping  trolley.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/cryo.tlt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

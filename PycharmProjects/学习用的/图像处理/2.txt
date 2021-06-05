@@ -1,0 +1,61 @@
+Cell_Death
+Cell_Death
+Cell_Death
+Cell_Death
+Cell_Death
+Cell_Death
+Cell_Death
+Cell_Death
+Cell_Death
+Cell_Death
+Uncontrolled, Regulated_Manner
+Uncontrolled, Regulated_Manner
+Uncontrolled, Regulated_Manner
+Uncontrolled, Regulated_Manner
+Uncontrolled, Regulated_Manner
+Uncontrolled, Regulated_Manner
+Uncontrolled, Regulated_Manner
+Uncontrolled, Regulated_Manner
+Uncontrolled, Regulated_Manner
+Autophagy, Apoptosis, Necrosis, Necroptosis, Pyroptosis
+Autophagy, Apoptosis, Necrosis, Necroptosis, Pyroptosis
+Autophagy, Apoptosis, Necrosis, Necroptosis, Pyroptosis
+Autophagy, Apoptosis, Necrosis, Necroptosis, Pyroptosis
+Autophagy, Apoptosis, Necrosis, Necroptosis, Pyroptosis
+Autophagy, Apoptosis, Necrosis, Necroptosis, Pyroptosis
+Autophagy, Apoptosis, Necrosis, Necroptosis, Pyroptosis
+Autophagy, Apoptosis, Necrosis, Necroptosis, Pyroptosis
+Filamentous_Fungi, Metazoans
+Filamentous_Fungi, Metazoans
+Filamentous_Fungi, Metazoans
+Filamentous_Fungi, Metazoans
+Filamentous_Fungi, Metazoans
+Filamentous_Fungi, Metazoans
+Filamentous_Fungi, Metazoans
+PCD
+PCD
+PCD
+PCD
+PCD
+PCD
+Sexual_Reproduction, asexual_Reproduction
+Sexual_Reproduction, asexual_Reproduction
+Sexual_Reproduction, asexual_Reproduction
+Sexual_Reproduction, asexual_Reproduction
+Sexual_Reproduction, asexual_Reproduction
+Sexual_Reproduction, asexual_Reproduction
+Development, Exogenic_Compounds, Non_self_Recognition
+Development, Exogenic_Compounds, Non_self_Recognition
+Development, Exogenic_Compounds, Non_self_Recognition
+Development, Exogenic_Compounds, Non_self_Recognition
+ROS, Salt, Fungicides, Plant_defense_molecules, UV
+ROS, Salt, Fungicides, Plant_defense_molecules, UV
+ROS, Salt, Fungicides, Plant_defense_molecules, UV
+ROS, Salt, Fungicides, Plant_defense molecules, UV
+Senescence, Infection, Sporulation, Ascospore_Formation
+Senescence, Infection, Sporulation, Ascospore_Formation
+Senescence, Infection, Sporulation, Ascospore_Formation
+Heterokaryon_Incompatibility
+Heterokaryon_Incompatibility
+Prions, NLR_like
+ 

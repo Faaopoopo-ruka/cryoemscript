@@ -1,0 +1,8 @@
+#Author：Alex.Zhang
+import random
+print(random.random())
+print(random.randint(0,5))
+print(random.choice('ajsdhjashg'),5)
+print(random.uniform(1,32))
+
+
